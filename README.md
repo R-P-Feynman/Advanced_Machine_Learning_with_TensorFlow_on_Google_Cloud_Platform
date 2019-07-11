@@ -7,10 +7,15 @@ Contains notebooks of models created and/or used as part of the Google Cloud Spe
 ### End-to-End Machine Learning with TensorFlow on GCP
 
 1_Explore_Natality_Dataset.ipynb
+
 2_Creating_a_Sampled_Dataset.ipynb
+
 3_Create_TensorFlow_DNN_Model.ipynb
+
 4_Create_TensorFlow_Wide_and_Deep_Model.ipynb
+
 5_Preprocessing_Using_Dataflow.ipynb
+
 6_Training_on_Cloud_ML_Engine.ipynb
 7_Deploying_and_Predicting.ipynb
 
