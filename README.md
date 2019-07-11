@@ -17,6 +17,7 @@ Contains notebooks of models created and/or used as part of the Google Cloud Spe
 5_Preprocessing_Using_Dataflow.ipynb
 
 6_Training_on_Cloud_ML_Engine.ipynb
+
 7_Deploying_and_Predicting.ipynb
 
 ### Production Machine Learning Systems
@@ -26,29 +27,46 @@ No files.
 ### Image Understanding with TensorFlow on GCP
 
 1_MNIST_Image_Classification_with_TensorFlow.ipynb
+
 2_MNIST_Image_Classification_with_TensorFlow_on_Cloud_MLE.ipynb
+
 2_Model.ipynb
+
 3_Flowers_Image_Classification_with_TensorFlow_on_Cloud_MLE.ipynb
+
 3_Model.ipynb
+
 4_Flowers_Image_Classification_with_TensorFlow_Cloud_MLE_TPU.ipynb
 
 ### Sequence Models for Time Series and Natural Language Processing
 
 1_End-to-End_Time_Series_Prediction.ipynb
+
 2_RNN_Model_for_Temperature_Data.ipynb
+
 3_Text_Classification_TensorFlow_Keras.ipynb
+
 4_Text_Classification_Native_TensorFlow.ipynb
+
 5_Pretrained_Embeddings_TensorFlow_Hub.ipynb
+
 6_Text_Generation_Tensor2Tensor on Cloud.ipynb
 
 ### Recommendation Systems with TensorFlow on GCP
 
 1_Content_Based_Filtering_by_Hand.ipynb
+
 2_Content_Based_Filtering_Using_Neural_Networks.ipynb
+
 2_Preprocessing_for_Content_Based_Filtering.ipynb
+
 3_Collaborative_Filtering_on_Google_Based_Data_Operational.ipynb
+
 3_Collaborative_Filtering_on_Google_Based_Data.ipynb
+
 4_Hybrid_Neural_Network_Recommendation_System.ipynb
+
 4_Preprocessing_for_Hybrid_Neural_Network_Recommendation.ipynb
+
 5_Recommendations_GCP_TensorFlow_WALS_Cloud_Composer.ipynb
 
